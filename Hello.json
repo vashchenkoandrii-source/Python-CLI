@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "text": "приготувати їжу",
+        "deadline": "12.12.2026 10:20",
+        "completed": true
+    },
+    {
+        "id": 2,
+        "text": "викинути мусор",
+        "deadline": "30.10.2027",
+        "completed": false
+    },
+    {
+        "id": 3,
+        "text": "Приготувати їжу",
+        "deadline": "30.11.2026",
+        "completed": false
+    }
+]
